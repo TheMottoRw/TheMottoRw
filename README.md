@@ -1,5 +1,5 @@
 ### Hi I am MANZI NERETSE Roger 👋
-I am full stack developer 
+I am full stack developer based in Kigali,Rwanda 
 with aim to always learn and
 acquire new skills, very
 passionate in application
