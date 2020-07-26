@@ -6,12 +6,12 @@ passionate in application
 development.
 
 #### Programming skills
-Javascript,PHP,Java,Python
+PHP,Java,Python,Javascript
 #### Web Application Frameworks:
-Laravel,Play,Flask,Django,Express
+CodeiIgniter,Laravel,Play,Flask,Django,Express
 #### Database
 MySQL ,Postgres SQL
 #### Mobile Apps development
-Java for Android,Flutter (cross-platform),Embedded application(POS)
+Java for Android,Flutter (cross-platform),Embedded application(POSs)
 #### Server administration (basic):
 Linux,Window
