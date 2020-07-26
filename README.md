@@ -1,15 +1,12 @@
 ### Hi I am MANZI NERETSE Roger 👋
-I am self-taught programmer with 4 years experience
+I am full stack developer 
 with aim to always learn and
 acquire new skills, very
 passionate in application
-development I pass several
-hours working on
-improvement of my coding
-ability.
+development.
 
 #### Programming skills
-Javascript,PHP,Java,Python,Node JS
+Javascript,PHP,Java,Python
 #### Web Application Frameworks:
 Laravel,Play,Flask,Django,Express
 #### Database
@@ -18,5 +15,3 @@ MySQL ,Postgres SQL
 Java for Android and Flutter (cross-platform)
 #### Server administration (basic):
 Linux,Window
-
-##### I have Blockchain basic skills
