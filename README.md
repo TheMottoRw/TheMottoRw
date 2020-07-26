@@ -1,5 +1,5 @@
 ### Hi I am MANZI NERETSE Roger 👋
-I am self-taught programmer
+I am self-taught programmer with 4 years experience
 with aim to always learn and
 acquire new skills, very
 passionate in application
@@ -16,6 +16,7 @@ Laravel,Play,Flask,Django,Express
 MySQL ,Postgres SQL
 #### Mobile Apps development
 Java for Android and Flutter (cross-platform)
-##### Trained about Blockchain
 #### Server administration (basic):
 Linux,Window
+
+##### I have Blockchain basic skills
