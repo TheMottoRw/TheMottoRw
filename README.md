@@ -12,6 +12,6 @@ Laravel,Play,Flask,Django,Express
 #### Database
 MySQL ,Postgres SQL
 #### Mobile Apps development
-Java for Android and Flutter (cross-platform)
+Java for Android,Flutter (cross-platform),Embedded application(POS)
 #### Server administration (basic):
 Linux,Window
