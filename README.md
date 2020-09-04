@@ -22,11 +22,13 @@ Linux,Window
 
 ---
 
-## I am also lurking on ⚡
-Linkedin [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/manzi-roger-asua-05023b7a) Twitter [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/@manzirasua)
+#### I am also lurking on ⚡
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/manzi-roger-asua-05023b7a) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/@manzirasua)
 
 
 ## My GitHub Stats &#x1f4c8;
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themottorw)](https://github.com/themottorw/github-readme-stats)
 
 ![Manzi Roger's github stats](https://github-readme-stats.vercel.app/api?username=themottorw&count_private=true&hide=contribs,prs)
 
