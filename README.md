@@ -29,5 +29,4 @@ Linux,Window
 ## My GitHub Stats &#x1f4c8;
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themottorw&hide=html)](https://github.com/themottorw/github-readme-stats)
-
-![Manzi Roger's github stats](https://github-readme-stats.vercel.app/api?username=themottorw&count_private=true&hide=contribs,prs)
+(https://github-readme-stats.vercel.app/api?username=themottorw&count_private=true&hide=contribs,prs)
