@@ -22,14 +22,15 @@ Linux,Window
 
 ---
 
-#### I am also lurking on ⚡
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/manzi-roger-asua-05023b7a) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/@manzirasua)
-
-
 ## My GitHub Stats &#x1f4c8;
-<a href="https://github.com/themottorw/voicematch">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=themottorw&hide=html&repo=voicematch" />
+<a href="https://github.com/themottorw/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=themottorw&hide=html&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/themottorw/themottorw">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=themottorw&count_private=true&hide=contribs,prs&repo=convoychat" />
 </a>
+
+---
+
+#### I am also lurking on ⚡
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/manzi-roger-asua-05023b7a) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/@manzirasua)
