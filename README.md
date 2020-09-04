@@ -4,7 +4,7 @@ with aim to always learn and
 acquire new skills, very
 passionate in application
 development.
-
+---
 #### Programming skills
 PHP,Java,Python,Javascript
 #### Web Application Frameworks:
@@ -17,3 +17,17 @@ Java for Android,Flutter (cross-platform),J2ME and USSD
 POS & Access control Application development which support Fingerprint,Card swipe and NFC
 #### Server administration (basic):
 Linux,Window
+---
+
+## I am also lurking on ⚡
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/manzi-roger-asua-05023b7a) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/@manzirasua)
+
+
+## My GitHub Stats &#x1f4c8;
+
+<a href="https://github.com/themottorw/themottorw">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=themottorw&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/themottorw/themottorw">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=themottorw&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="TheMottoRw's GitHub Stats" />
+</a>
