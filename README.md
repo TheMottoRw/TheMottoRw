@@ -27,12 +27,9 @@ Linux,Window
 
 
 ## My GitHub Stats &#x1f4c8;
-<a href="https://github.com/themottorw/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=themottorw&hide=html&repo=github-readme-stats" />
+<a href="https://github.com/themottorw/voicematch">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=themottorw&hide=html&repo=voicematch" />
 </a>
 <a href="https://github.com/themottorw/themottorw">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=themottorw&count_private=true&hide=contribs,prs&repo=convoychat" />
 </a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themottorw&hide=html)](https://github.com/themottorw/github-readme-stats)
-['!Manzi Roger' git stats (https://github-readme-stats.vercel.app/api?username=themottorw&count_private=true&hide=contribs,prs)
