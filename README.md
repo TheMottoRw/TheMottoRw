@@ -10,9 +10,9 @@ development.
 #### Programming skills
 PHP,Java,Python,Javascript
 #### Web Application Frameworks:
-CodeiIgniter,Laravel,Play,Flask,Django,Express
+CodeiIgniter,Laravel,Spring,Flask,Django,Express
 #### Database
-MySQL ,Postgres SQL
+MySQL ,Postgres SQL,MongoDb
 #### Mobile Apps development
 Java for Android,Flutter (cross-platform),J2ME and USSD
 ### Embedded System
@@ -31,6 +31,3 @@ Linux,Window
 </a>
 
 ---
-
-#### I am also lurking on ⚡
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/manzi-roger-asua-05023b7a) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/@manzirasua)
