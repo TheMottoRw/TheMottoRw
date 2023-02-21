@@ -14,7 +14,7 @@ CodeiIgniter,Laravel,Spring,Flask,Django,Express
 #### Database
 MySQL ,Postgres SQL,MongoDb
 #### Mobile Apps development
-Java for Android,Flutter (cross-platform),J2ME and USSD
+Java for Android,Flutter (cross-platform),and USSD
 ### Embedded System
 POS & Access control Application development which support Fingerprint,Card swipe and NFC
 #### Server administration (basic):
