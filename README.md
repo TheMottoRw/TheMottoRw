@@ -26,7 +26,7 @@ Linux
 <a href="https://github.com/themottorw/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=themottorw&hide=html,css,scala,scss&repo=github-readme-stats" />
 </a>
-![TheMottoRw's GitHub stats](https://github-readme-stats.vercel.app/api?username=themottorw&count_private=true&show_icons=true)
+![TheMottoRw's GitHub stats](https://github-readme-stats.vercel.app/api?username=themottorw&count_private=true&show_icons=true&theme=white)
 
 
 ---
