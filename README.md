@@ -29,5 +29,7 @@ Linux
 <a href="https://github.com/themottorw/themottorw">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=themottorw&count_private=true&hide=contribs,prs&repo=convoychat" />
 </a>
+![Roger's GitHub stats](https://github-readme-stats.vercel.app/api?username=themottorw&show_icons=true&theme=darcula)
+
 
 ---
