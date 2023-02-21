@@ -17,8 +17,8 @@ MySQL ,Postgres SQL,MongoDb
 Java for Android,Flutter (cross-platform),and USSD
 ### Embedded System
 POS & Access control Application development which support Fingerprint,Card swipe and NFC
-#### Server administration (basic):
-Linux,Window
+#### Server administration:
+Linux
 
 ---
 
