@@ -23,9 +23,8 @@ Linux
 ---
 
 ## My GitHub Stats &#x1f4c8;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themottorw&layout=compact)](https://github.com/themottorw/github-readme-stats)
 <a href="https://github.com/themottorw/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=themottorw&hide=html&repo=github-readme-stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=themottorw&hide=html,css&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/themottorw/themottorw">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=themottorw&count_private=true&hide=contribs,prs&repo=convoychat" />
