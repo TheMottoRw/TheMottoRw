@@ -8,9 +8,9 @@ development.
 ---
 
 #### Programming skills
-PHP,Java,Python,Javascript
+Java,Python,Javascript,PHP,
 #### Web Application Frameworks:
-CodeiIgniter,Laravel,Spring,Flask,Django,Express
+Spring,Flask,Django,Express,CodeiIgniter,Laravel
 #### Database
 MySQL ,Postgres SQL,MongoDb
 #### Mobile Apps development
