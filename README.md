@@ -1,8 +1,8 @@
-### Hi I am MANZI Roger 👋
-I am full stack developer based in Kigali,Rwanda 
+### Hi I am Roger MANZI 👋
+I am full stack engineer based in Kigali,Rwanda 
 with aim to always learn and
 acquire new skills, very
-passionate in application
+passionate in web and mobile application
 development.
 
 ---
