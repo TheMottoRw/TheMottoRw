@@ -1,5 +1,5 @@
 ### Hi I am Roger MANZI 👋
-I am full stack engineer based in Kigali,Rwanda 
+I am Senior Full Stack Engineer based in Kigali,Rwanda 
 with over 5 years of experience in secure software development and hands on skills in cyber security vulnerability assessment and penetration testing aims to always learn and
 acquire new skills, very
 passionate in web,mobile application development.
