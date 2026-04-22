@@ -1,18 +1,17 @@
 ### Hi I am Roger MANZI 👋
 I am full stack engineer based in Kigali,Rwanda 
-with aim to always learn and
+with over 5 years of experience in cyber security & secure software development aim to always learn and
 acquire new skills, very
-passionate in web and mobile application
-development.
+passionate in web,mobile application development and Penetration testing.
 
 ---
 
 #### Programming skills
-Java,Python,Javascript,PHP,
+Java,Python,Javascript,C#,PHP,
 #### Web Application Frameworks:
-Spring,Flask,Django,Express,CodeiIgniter,Laravel
+Spring,Flask,Django,Express,.Net,CodeiIgniter,Laravel
 #### Database
-MySQL ,Postgres SQL,MongoDb
+MySQL ,Postgres SQL,SQL Server,MongoDb
 #### Mobile Apps development
 Java for Android,Flutter (cross-platform),and USSD
 ### Embedded System
