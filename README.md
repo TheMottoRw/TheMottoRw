@@ -2,7 +2,7 @@
 I am full stack engineer based in Kigali,Rwanda 
 with over 5 years of experience in secure software development and hands on skills in cyber security vulnerability assessment and penetration testing aims to always learn and
 acquire new skills, very
-passionate in web,mobile application development and Penetration testing.
+passionate in web,mobile application development.
 
 ---
 
